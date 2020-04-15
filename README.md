@@ -7,6 +7,7 @@ Allow the following through the firewall ("security group")
 - ICMP (all)
 - TCP port 22 (SSH)
 - TCP port 1723
+1701
 
 > See the screenshot of the rules from EC2 www console at https://github.com/viljoviitanen/setup-simple-pptp-vpn/wiki/Amazon-EC2-firewall-security-group-instructions
 
